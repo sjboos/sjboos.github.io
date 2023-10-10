@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samuel J. Boos / Website"
+title                    : "Samuel J. Boos"
 title_separator          : "-"
 name                     : &name "Samuel J. Boos"
 description              : &description "PhD Candidate in Physics & Astronomy at The University of Alabama"
