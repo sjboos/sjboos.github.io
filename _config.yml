@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Samuel J. Boos"
-  avatar           : "headshot.png"
-  bio              : "PhD Candidate in Physics & Astronomy at The University of Alabama"
+  avatar           : "headshot.jpg"
+  bio              : "PhD Candidate in Physics & Astronomy"
   location         : "Tuscaloosa, AL"
-  employer         :
+  employer         : "The University of Alabama"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=42P4CbgAAAAJ"
-  email            :
+  email            : " sjboos at crimson dot ua dot edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
